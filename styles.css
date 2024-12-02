@@ -137,6 +137,41 @@ color: gray;
 
 .four {
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.box.signup {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 500px;
+    background-color: #3882F6;
+    color: white;
+    padding: 20px;
+    margin-block-start: 0px;
+    border-radius: 10px;
+
+}
+
+button.b-two {
+    background-color: #3882F6;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+    margin-left: 30px;
+}
+
+.call.description {
+margin-top: -15px;
+}
+
+h4 {
+    margin-top: 10px;
 }
 
 .footer {
