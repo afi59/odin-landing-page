@@ -120,9 +120,20 @@ color: gray;
 .three {
     background-color: #E5E7EB;
     padding: 60px;
+    display: flex;
+    flex-direction: column;
 }
 
-.quote {}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.author {
+    font-weight: bold;
+    margin-left: auto;
+}
 
 .four {
     background-color: white;
