@@ -150,7 +150,7 @@ color: gray;
     min-width: 500px;
     background-color: #3882F6;
     color: white;
-    padding: 20px;
+    padding: 30px;
     margin-block-start: 0px;
     border-radius: 10px;
 
@@ -175,6 +175,11 @@ h4 {
 }
 
 .footer {
+    width: 100%;
     background-color: #1F2937;
-
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
