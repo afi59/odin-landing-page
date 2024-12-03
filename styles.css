@@ -119,7 +119,7 @@ color: gray;
 
 .three {
     background-color: #E5E7EB;
-    padding: 60px;
+    padding: 100px;
     display: flex;
     flex-direction: column;
 }
